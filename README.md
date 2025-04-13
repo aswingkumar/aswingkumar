@@ -1,2 +1,3 @@
 - Hello my name is Aswin.G.Kumar i have completed  Master of Arts (MA) in English.
-- And currently i am pursuing Master Certificate Program in Artificial Intelligence at sree sankaracharya computer center and pragyan ai & ds school 
+- And recently iam successfully completed Master Certificate Program in Artificial Intelligence at sree sankaracharya computer center and pragyan ai & ds school 
+- Iam interested in Python, Numpy, Machine Learning, Auto ML, Deep Learning, Power Bi, NLP, DB creation
